@@ -5,5 +5,5 @@ def reverse_each_word(pharse)
     new_phrase << word.reverse
   end
   new_phrase.join(" ")
-end 
+  end 
 end
